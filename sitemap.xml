@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--
+Created with IncludeHelp XML Sitemap Generator
+https://www.includehelp.com/tools/xml-sitemap-generator.aspx
+ -->
 <url>
-  <loc>http://tpower2u.com/</loc>
-  <lastmod>2024-06-14T01:27:36+00:00</lastmod>
+	<loc>https://www.tpower2u.com/</loc>
+	<lastmod>2024-06-15</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tpower2u.com/index</loc>
-  <lastmod>2024-06-14T01:27:36+00:00</lastmod>
+	<loc>https://www.tpower2u.com/index</loc>
+	<lastmod>2024-06-15</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>1.0</priority>
 </url>
 <url>
-  <loc>http://tpower2u.com/cn</loc>
-  <lastmod>2024-06-14T01:27:36+00:00</lastmod>
+	<loc>https://www.tpower2u.com/cn</loc>
+	<lastmod>2024-06-15</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>1.0</priority>
 </url>
-
-
 </urlset>
