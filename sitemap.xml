@@ -22,4 +22,16 @@ https://www.includehelp.com/tools/xml-sitemap-generator.aspx
 	<changefreq>daily</changefreq>
 	<priority>1.0</priority>
 </url>
+<url>
+	<loc>https://www.tpower2u.com/register</loc>
+	<lastmod>2024-06-15</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.tpower2u.com/signup</loc>
+	<lastmod>2024-06-15</lastmod>
+	<changefreq>daily</changefreq>
+	<priority>1.0</priority>
+</url>
 </urlset>
